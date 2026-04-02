@@ -1,0 +1,15 @@
+C:\Users\10-12\source\repos\SklepBiedronka\Biedronka1\Biedronka1\bin\Debug\net10.0\Biedronka1.exe
+C:\Users\10-12\source\repos\SklepBiedronka\Biedronka1\Biedronka1\bin\Debug\net10.0\Biedronka1.deps.json
+C:\Users\10-12\source\repos\SklepBiedronka\Biedronka1\Biedronka1\bin\Debug\net10.0\Biedronka1.runtimeconfig.json
+C:\Users\10-12\source\repos\SklepBiedronka\Biedronka1\Biedronka1\bin\Debug\net10.0\Biedronka1.dll
+C:\Users\10-12\source\repos\SklepBiedronka\Biedronka1\Biedronka1\bin\Debug\net10.0\Biedronka1.pdb
+C:\Users\10-12\source\repos\SklepBiedronka\Biedronka1\Biedronka1\obj\Debug\net10.0\Biedronka1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10-12\source\repos\SklepBiedronka\Biedronka1\Biedronka1\obj\Debug\net10.0\Biedronka1.AssemblyInfoInputs.cache
+C:\Users\10-12\source\repos\SklepBiedronka\Biedronka1\Biedronka1\obj\Debug\net10.0\Biedronka1.AssemblyInfo.cs
+C:\Users\10-12\source\repos\SklepBiedronka\Biedronka1\Biedronka1\obj\Debug\net10.0\Biedronka1.csproj.CoreCompileInputs.cache
+C:\Users\10-12\source\repos\SklepBiedronka\Biedronka1\Biedronka1\obj\Debug\net10.0\Biedronka1.sourcelink.json
+C:\Users\10-12\source\repos\SklepBiedronka\Biedronka1\Biedronka1\obj\Debug\net10.0\Biedronka1.dll
+C:\Users\10-12\source\repos\SklepBiedronka\Biedronka1\Biedronka1\obj\Debug\net10.0\refint\Biedronka1.dll
+C:\Users\10-12\source\repos\SklepBiedronka\Biedronka1\Biedronka1\obj\Debug\net10.0\Biedronka1.pdb
+C:\Users\10-12\source\repos\SklepBiedronka\Biedronka1\Biedronka1\obj\Debug\net10.0\Biedronka1.genruntimeconfig.cache
+C:\Users\10-12\source\repos\SklepBiedronka\Biedronka1\Biedronka1\obj\Debug\net10.0\ref\Biedronka1.dll
